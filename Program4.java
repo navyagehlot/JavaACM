@@ -4,9 +4,9 @@ class Program4
 {
 	public static void main(String args[]) throws IOException
 	{
-		boolean flag=false;
-    if(flag)flag=false;
-    else flag=true;
-		System.out.println(flag);
+		boolean val=false;
+    if(val)val=false;
+    else val=true;
+		System.out.println(val);
 	}
 }
